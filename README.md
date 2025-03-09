@@ -29,26 +29,26 @@ TensorGrid is a revolutionary decentralized GPU computing platform that connects
 ### Installation
 
 1. Clone the repository
-\`\`\`bash
+```bash
 git clone https://github.com/your-username/tensorgrid-frontend.git
 cd tensorgrid-frontend
-\`\`\`
+```
 
 2. Install dependencies
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 3. Start the development server
-\`\`\`bash
+```bash
 npm start
-\`\`\`
+```
 
 4. Open your browser and visit http://localhost:3000
 
 ## 🏗️ Project Structure
 
-\`\`\`
+```
 tensorgrid-frontend/
 ├── public/              # Static files
 ├── src/                 # Source code
@@ -58,7 +58,7 @@ tensorgrid-frontend/
 │   ├── index.js        # Entry point
 │   └── theme.js        # Theme configuration
 └── package.json        # Project dependencies
-\`\`\`
+```
 
 ## 🔧 Available Scripts
 
